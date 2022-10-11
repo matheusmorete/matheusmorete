@@ -17,5 +17,5 @@
  
 <div> 
    <a href = "mailto:matheusmoretedv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+ <a href = "[mailto:matheusmoretedv@gmail.com](https://codepen.io/matheusmorete)"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
